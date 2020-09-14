@@ -97,7 +97,7 @@ Amit Pande, Jindan Zhu, Aweek K. Das, **Yunze Zeng**, Prasant Mohapatra, and Jay
 
 - **Energy Expenditure Estimation with Smartphone Body Sensors** [[PDF](/assets/pdfs/)]\
 Amit Pande, **Yunze Zeng**, Aweek K. Das, Prasant Mohapatra, Sheridan Miyamoto, Edmund Seto, Erik K. Henricson, and Jay J. Han\
-*ACM BodyNets 2013* (Acceptance ratio: 35%)
+*ACM BodyNets 2013* (Acceptance ratio: 35%)\
 ***Best Paper Award!***
 
 - **Accurate Energy Expenditure Estimation using Smartphone Sensors** [[PDF](/assets/pdfs/)]\
