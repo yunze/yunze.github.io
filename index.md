@@ -22,12 +22,12 @@ Wireless Sensing, Machine Learning, Mobile Computing
 
 ## Pulications
 
-- **CarOSense: Car Occupancy Sensing with the Ultra-Wideband Keyless Infrastructure** [[PDF](/assets/pdfs/CaraoKey_IEEE_SECON_2020.pdf)]\
+- **CarOSense: Car Occupancy Sensing with the Ultra-Wideband Keyless Infrastructure** [[PDF](/assets/pdfs/)]\
 Yongsen Ma, **Yunze Zeng**, and Vivek Jain\
 (Co-first authors)\
 *ACM IMWUT/UbiComp 2020*
 
-- **CaraoKey: Car States Sensing via the Ultra-Wideband Keyless Infrastructure** [[PDF](/assets/pdfs/)]\
+- **CaraoKey: Car States Sensing via the Ultra-Wideband Keyless Infrastructure** [[PDF](/assets/pdfs/CaraoKey_IEEE_SECON_2020.pdf)]\
 Avinash Kalyanaraman, **Yunze Zeng**, Sushanta Rakshit, and Vivek Jain\
 (Co-first authors)\
 *IEEE SECON 2020* (Acceptance ratio: 27%)\
