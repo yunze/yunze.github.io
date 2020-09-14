@@ -6,7 +6,6 @@ toc_label: "Content"
 toc_icon: "cog"
 toc_sticky: true
 ---
-
 ## About
 
 I am a Research Scientist at [Bosch Research](https://www.bosch.com/research/) in Sunnyvale, CA. I am currently focusing on topics related to Wireless Sensing and Networking Systems with Machine Learning. Especially, I am bringing Wireless Sensing ideas to enable new business for Bosch in automotive and smart home/building applications.
@@ -18,7 +17,6 @@ Before coming to Davis, I received my B.S. from [Beijing Jiaotong University](ht
 ## Research Interest
 
 Wireless Sensing, Machine Learning, Mobile Computing
-
 
 ## Pulications
 
@@ -107,7 +105,6 @@ Amit Pande, **Yunze Zeng**, Aweek K. Das, Prasant Mohapatra, Sheridan Miyamoto, 
 - **Evaluating Perceptual Video Quality for Mobile Clients in 802.11n WLAN** [[PDF](/assets/pdfs/)]\
 Victor Omwando, Amit Pande, **Yunze Zeng**, and Prasant Mohapatra\
 *ACM WiNTECH @ Mobicom 2013*
-
 
 ## Awards
 
