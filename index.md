@@ -7,6 +7,7 @@ toc_label: "Content"
 toc_icon: "cog"
 toc_sticky: true
 ---
+
 ## About
 
 I am a Research Scientist at [Bosch Research](https://www.bosch.com/research/) in Sunnyvale, CA. I am currently focusing on topics related to Wireless Sensing and Networking Systems with Machine Learning. Especially, I am bringing Wireless Sensing ideas to enable new business for Bosch in automotive and smart home/building applications.
