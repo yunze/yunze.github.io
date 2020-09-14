@@ -1,5 +1,5 @@
 ---
-title: Yunze Zeng (曾云泽)
+title: Yunze Zeng
 layout: single
 author_profile: true
 toc: false
