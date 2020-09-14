@@ -1,8 +1,8 @@
 ---
-title: 
+title: Yunze Zeng
 layout: single
 author_profile: true
-toc: true
+toc: false
 toc_label: "Content"
 toc_icon: "cog"
 toc_sticky: true
@@ -33,7 +33,7 @@ Avinash Kalyanaraman, **Yunze Zeng**, Sushanta Rakshit, and Vivek Jain\
 *IEEE SECON 2020* (Acceptance ratio: 27%)\
 ***Best Paper Runner-up Award!***
 
-- **Enriching WLANs with Advanced Sensing and Networking Applications** [[PDF](/assets/pdfs/)]\
+- **Enriching WLANs with Advanced Sensing and Networking Applications** [[PDF](/assets/pdfs/YUNZE_ZENG_PHD_DISSERTATION.pdf)]\
 **Yunze Zeng**\
 *Ph.D. Thesis, University of California Davis, 2018*
 
