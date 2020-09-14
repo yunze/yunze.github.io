@@ -110,3 +110,12 @@ Victor Omwando, Amit Pande, **Yunze Zeng**, and Prasant Mohapatra\
 
 ## Awards
 
+- **Best Paper Runner-up Award** at IEEE SECON 2020
+- **Robert Bosch Innovation Award** (4 projects per year for the whole company), Robert Bosch LLC 2019
+- **Honorable Mention** in Recognition of Outstanding Graduate Research, UC Davis 2016
+- **Business Development Fellow** (9 fellows each year campus-wide), UC Davis 2015
+- **Best Paper Award** at IFIP Networking 2014, Trondheim, Norway 2014
+- **Best Paper Award** at ACM BodyNets 2013, Boston, United States 2013
+- Student travel grant awards for ACM MobiCom 2014 and ACM/IEEE IPSN 2016
+- Excellent Student Leader, Beijing Jiaotong University 2011
+- Outstanding Student, Beijing Jiaotong University 2010
