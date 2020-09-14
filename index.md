@@ -1,5 +1,5 @@
 ---
-title: Yunze Zeng
+title:
 layout: single
 author_profile: true
 toc: true
@@ -22,7 +22,7 @@ Wireless Sensing, Machine Learning, Mobile Computing
 
 ## Pulications
 
-- **CarOSense: Car Occupancy Sensing with the Ultra-Wideband Keyless Infrastructure** [[PDF](/assets/pdfs/)]\
+- **CarOSense: Car Occupancy Sensing with the Ultra-Wideband Keyless Infrastructure** [[PDF](/assets/pdfs/CarOSense_ACM_IWMUT_2020.pdf)]\
 Yongsen Ma, **Yunze Zeng**, and Vivek Jain\
 (Co-first authors)\
 *ACM IMWUT/UbiComp 2020*
