@@ -31,7 +31,7 @@ Yongsen Ma, **Yunze Zeng**, and Vivek Jain\
 Avinash Kalyanaraman, **Yunze Zeng**, Sushanta Rakshit, and Vivek Jain\
 (Co-first authors)\
 *IEEE SECON 2020* (Acceptance ratio: 27%)\
-***Best Paper Runner-up Award!***
+<span style="color:red">**Best Paper Runner-up Award!**</span> 
 
 - **Enriching WLANs with Advanced Sensing and Networking Applications** [[PDF](/assets/pdfs/YUNZE_ZENG_PHD_DISSERTATION.pdf)]\
 **Yunze Zeng**\
@@ -85,11 +85,10 @@ Zhicheng Yang, Parth H. Pathak, **Yunze Zeng** and Prasant Mohapatra\
 Amit Pande, Jindan Zhu, Aweek K. Das, **Yunze Zeng**, Prasant Mohapatra, and Jay J. Han\
 *IEEE Journal on Translational Engineering in Health and Medicine, Vol. 3, 2015*
 
-
 - **A First Look at 802.11ac in Action: Energy Efficiency and Interference Characterization** [[PDF](/assets/pdfs/)]\
 **Yunze Zeng**, Parth H. Pathak, and Prasant Mohapatra\
 *IEEE/IFIP Networking 2014* (Acceptance ratio: 19.6%)\
-***Best Paper Award!***
+<span style="color:red">**Best Paper Award!**</span> 
 
 - **Your AP Knows How You Move: Fine-grained Device Motion Recognition through WiFi** [[PDF](/assets/pdfs/)]\
 **Yunze Zeng**, Parth H. Pathak, Chao Xu, and Prasant Mohapatra\
@@ -98,7 +97,7 @@ Amit Pande, Jindan Zhu, Aweek K. Das, **Yunze Zeng**, Prasant Mohapatra, and Jay
 - **Energy Expenditure Estimation with Smartphone Body Sensors** [[PDF](/assets/pdfs/)]\
 Amit Pande, **Yunze Zeng**, Aweek K. Das, Prasant Mohapatra, Sheridan Miyamoto, Edmund Seto, Erik K. Henricson, and Jay J. Han\
 *ACM BodyNets 2013* (Acceptance ratio: 35%)\
-***Best Paper Award!***
+<span style="color:red">**Best Paper Award!**</span> 
 
 - **Accurate Energy Expenditure Estimation using Smartphone Sensors** [[PDF](/assets/pdfs/)]\
 Amit Pande, **Yunze Zeng**, Aweek K. Das, Prasant Mohapatra, Sheridan Miyamoto, Edmund Seto, Erik K. Henricson, and Jay J. Han\
