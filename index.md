@@ -1,4 +1,5 @@
 ---
+title: Yunze Zeng
 layout: single
 author_profile: true
 toc: false
@@ -6,7 +7,9 @@ toc_label: "Content"
 toc_icon: "cog"
 toc_sticky: true
 ---
+
 ## About
+
 I am a Research Scientist at [Bosch Research](https://www.bosch.com/research/) in Sunnyvale, CA. I am currently focusing on building Wireless Sensing and Networking Systems with Machine Learning. Especially, I am bringing Wireless Sensing ideas to enable new business for Bosch in automotive and smart home/building applications.
 
 I received my Ph.D. in [Computer Science](https://cs.ucdavis.edu/) from [University of California Davis](https://www.ucdavis.edu/) where I was supervised by Prof. [Prasant Mohapatra](https://faculty.engineering.ucdavis.edu/mohapatra/). During the study at Davis, I was selected as [Business Development Fellow](https://gsm.ucdavis.edu/profile/yunze-zeng) from [Graduate School of Management](https://gsm.ucdavis.edu/), and I got [Honorable Mention](https://cs.ucdavis.edu/news) in Recognition of Outstanding Graduate Research from [Computer Science Department](https://cs.ucdavis.edu/).
