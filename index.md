@@ -1,5 +1,5 @@
 ---
-title: Yunze Zeng
+title: " "
 layout: single
 author_profile: true
 toc: false
