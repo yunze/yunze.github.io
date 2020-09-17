@@ -22,7 +22,7 @@ Wireless Sensing, Machine Learning, Mobile Computing
 
 ## Pulications
 
-- **CarOSense: Car Occupancy Sensing with the Ultra-Wideband Keyless Infrastructure** [[PDF](/assets/pdfs/CarOSense_ACM_IWMUT_2020.pdf)] [[Video]https://www.youtube.com/watch?time_continue=8&v=rdTXv62inuM&feature=emb_logo]\
+- **CarOSense: Car Occupancy Sensing with the Ultra-Wideband Keyless Infrastructure** [[PDF](/assets/pdfs/CarOSense_ACM_IWMUT_2020.pdf)] [[Video](https://www.youtube.com/watch?time_continue=8&v=rdTXv62inuM&feature=emb_logo)]\
 Yongsen Ma, **<u>Yunze Zeng</u>**, and Vivek Jain\
 (Co-first authors)\
 *ACM IMWUT/UbiComp 2020*
