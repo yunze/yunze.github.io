@@ -20,8 +20,8 @@ title                    : "Yunze Zeng"
 title_separator          : 
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yunze Zeng"
-description              : "Yunze Zeng's Homepage."
-url                      : "https://yunze.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Yunze Zeng is a Research Scientist at Bosch Research in Sunnyvale, CA. He currently focuses on building Wireless Sensing and Networking Systems with Machine Learning. His research interest includes Wireless Sensing and Machine Learning."
+url                      : "https://yunzezeng.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
