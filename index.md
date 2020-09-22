@@ -37,73 +37,73 @@ Avinash Kalyanaraman, **<u>Yunze Zeng</u>**, Sushanta Rakshit, and Vivek Jain\
 **<u>Yunze Zeng</u>**\
 *Ph.D. Thesis, University of California Davis, 2018*
 
-- **MU-MIMO-Aware AP Selection for 802.11ac Networks** [[PDF](/assets/pdfs/)]\
+- **MU-MIMO-Aware AP Selection for 802.11ac Networks** [[PDF](/assets/pdfs/MAPS_ACM_MobiHoc_2017.pdf)]\
 **<u>Yunze Zeng</u>**, Ioannis Pefkianakis, Kyu-Han Kim, and Prasant Mohapatra\
 *ACM MobiHoc 2017* (Acceptance ratio: 17%)
 
-- **WearIA: Wearable Device Implicit Authentication based on Activity Information** [[PDF](/assets/pdfs/)]\
+- **WearIA: Wearable Device Implicit Authentication based on Activity Information** [[PDF](/assets/pdfs/WearIA_IEEE_WoWMoM_2017.pdf)]\
 **<u>Yunze Zeng</u>**, Amit Pande, Jindan Zhu, and Prasant Mohapatra\
 *IEEE WoWMoM 2017*
 
-- **Vital Sign and Sleep Monitoring Using Millimeter Wave** [[PDF](/assets/pdfs/)]\
+- **Vital Sign and Sleep Monitoring Using Millimeter Wave** [[PDF](/assets/pdfs/Vital_ACM_TOSN_2017.pdf)]\
 Zhicheng Yang, Parth H. Pathak, **<u>Yunze Zeng</u>**, and Prasant Mohapatra\
 *ACM Transactions on Sensor Networks (TOSN), Vol. 13, Issue 2, 2017*
 
-- **Throughput, Energy Efficiency and Interference Characterisation of 802.11ac** [[PDF](/assets/pdfs/)]\
+- **Throughput, Energy Efficiency and Interference Characterisation of 802.11ac** [[PDF](/assets/pdfs/ac_ETT_2017.pdf)]\
 **<u>Yunze Zeng</u>**, Parth H. Pathak and Prasant Mohapatra\
 *Transactions on Emerging Telecommunications Technologies, Vol. 28, No. 2, 2017*
 
-- **Monitoring Vital Signs Using Millimeter Wave** [[PDF](/assets/pdfs/)]\
+- **Monitoring Vital Signs Using Millimeter Wave** [[PDF](/assets/pdfs/Vital_ACM_MobiHoc_2016.pdf)]\
 Zhicheng Yang, Parth H. Pathak, **<u>Yunze Zeng</u>**, Xixi Liran, and Prasant Mohapatra\
 *ACM MobiHoc 2016* (Acceptance ratio: 18.7%)
 
-- **WiWho: WiFi-based Person Identification in Smart Spaces** [[PDF](/assets/pdfs/)]\
+- **WiWho: WiFi-based Person Identification in Smart Spaces** [[PDF](/assets/pdfs/WiWho_IPSN_2016.pdf)]\
 **<u>Yunze Zeng</u>**, Parth H. Pathak, and Prasant Mohapatra\
 *ACM/IEEE IPSN 2016* (Acceptance ratio: 19.6%)
 
-- **Human Tracking and Activity Monitoring using 60GHz mmWave** [[PDF](/assets/pdfs/)]\
+- **Human Tracking and Activity Monitoring using 60GHz mmWave** [[PDF](/assets/pdfs/Tracking_IPSN_poster_2016.pdf)]\
 **<u>Yunze Zeng</u>**, Parth H. Pathak, Zhicheng Yang, and Prasant Mohapatra\
 *Poster, ACM/IEEE IPSN 2016*
 
-- **Activity-based Implicit Authentication for Wearable Devices** [[PDF](/assets/pdfs/)]\
+- **Activity-based Implicit Authentication for Wearable Devices** [[PDF](/assets/pdfs/IA_IPSN_PHD_Forum.pdf)]\
 **<u>Yunze Zeng</u>**\
 *PhD Forum, ACM/IEEE IPSN 2016*
 
-- **PBA: Prediction-based Authentication for Vehicle-to-Vehicle Communications** [[PDF](/assets/pdfs/)]\
+- **PBA: Prediction-based Authentication for Vehicle-to-Vehicle Communications** [[PDF](/assets/pdfs/PBA_IEEE_TDSC_2016.pdf)]\
 Chen Lyu, Dawu Gu, **<u>Yunze Zeng</u>**, and Prasant Mohapatra\
 *IEEE Transactions on Dependable and Secure Computing, Vol. 13, No. 1, 2016*
 
-- **Analyzing Shopper's Behavior through WiFi Signals** [[PDF](/assets/pdfs/)]\
+- **Analyzing Shopper's Behavior through WiFi Signals** [[PDF](/assets/pdfs/Shopper_WiFi_ACM_WPA_2015.pdf)]\
 **<u>Yunze Zeng</u>**, Parth H. Pathak, and Prasant Mohapatra\
 *ACM WPA @ MobiSys 2015*
 
-- **Sensor-assisted Codebook-based Beamforming for Mobility Management in 60GHz WLANs** [[PDF](/assets/pdfs/)]\
+- **Sensor-assisted Codebook-based Beamforming for Mobility Management in 60GHz WLANs** [[PDF](/assets/pdfs/IEEE_MASS_2015.pdf)]\
 Zhicheng Yang, Parth H. Pathak, **<u>Yunze Zeng</u>**, and Prasant Mohapatra\
 *IEEE MASS 2015* (Acceptance ratio: 26%)
 
-- **Using Smartphone Sensors for Improving Energy Expenditure Estimation** [[PDF](/assets/pdfs/)]\
+- **Using Smartphone Sensors for Improving Energy Expenditure Estimation** [[PDF](/assets/pdfs/EEE_IEEE_JTEHM_2015.pdf)]\
 Amit Pande, Jindan Zhu, Aweek K. Das, **<u>Yunze Zeng</u>**, Prasant Mohapatra, and Jay J. Han\
 *IEEE Journal on Translational Engineering in Health and Medicine, Vol. 3, 2015*
 
-- **A First Look at 802.11ac in Action: Energy Efficiency and Interference Characterization** [[PDF](/assets/pdfs/)]\
+- **A First Look at 802.11ac in Action: Energy Efficiency and Interference Characterization** [[PDF](/assets/pdfs/First_Look_80211ac_Networking_2014.pdf)]\
 **<u>Yunze Zeng</u>**, Parth H. Pathak, and Prasant Mohapatra\
 *IEEE/IFIP Networking 2014* (Acceptance ratio: 19.6%)\
 <span style="color:red">**Best Paper Award!**</span> 
 
-- **Your AP Knows How You Move: Fine-grained Device Motion Recognition through WiFi** [[PDF](/assets/pdfs/)]\
+- **Your AP Knows How You Move: Fine-grained Device Motion Recognition through WiFi** [[PDF](/assets/pdfs/APsense_ACM_HotWireless_2014.pdf)]\
 **<u>Yunze Zeng</u>**, Parth H. Pathak, Chao Xu, and Prasant Mohapatra\
 *ACM HotWireless @ Mobicom 2014*
 
-- **Energy Expenditure Estimation with Smartphone Body Sensors** [[PDF](/assets/pdfs/)]\
+- **Energy Expenditure Estimation with Smartphone Body Sensors** [[PDF](/assets/pdfs/EEE_ACM_BodyNets_2013.pdf)]\
 Amit Pande, **<u>Yunze Zeng</u>**, Aweek K. Das, Prasant Mohapatra, Sheridan Miyamoto, Edmund Seto, Erik K. Henricson, and Jay J. Han\
 *ACM BodyNets 2013* (Acceptance ratio: 35%)\
 <span style="color:red">**Best Paper Award!**</span> 
 
-- **Accurate Energy Expenditure Estimation using Smartphone Sensors** [[PDF](/assets/pdfs/)]\
+- **Accurate Energy Expenditure Estimation using Smartphone Sensors** [[PDF](/assets/pdfs/EEE_ACM_WirelessHealth-Demo.pdf)]\
 Amit Pande, **<u>Yunze Zeng</u>**, Aweek K. Das, Prasant Mohapatra, Sheridan Miyamoto, Edmund Seto, Erik K. Henricson, and Jay J. Han\
 *Demo, ACM Wireless Health Conference 2013*
 
-- **Evaluating Perceptual Video Quality for Mobile Clients in 802.11n WLAN** [[PDF](/assets/pdfs/)]\
+- **Evaluating Perceptual Video Quality for Mobile Clients in 802.11n WLAN** [[PDF](/assets/pdfs/Video_ACM_WiNTECH_2013.pdf)]\
 Victor Omwando, Amit Pande, **<u>Yunze Zeng</u>**, and Prasant Mohapatra\
 *ACM WiNTECH @ Mobicom 2013*
 
