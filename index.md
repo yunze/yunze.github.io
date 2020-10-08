@@ -87,7 +87,7 @@ Amit Pande, Jindan Zhu, Aweek K. Das, **<u>Yunze Zeng</u>**, Prasant Mohapatra, 
 
 - **A First Look at 802.11ac in Action: Energy Efficiency and Interference Characterization** [[PDF](/assets/pdfs/First_Look_80211ac_Networking_2014.pdf)]\
 **<u>Yunze Zeng</u>**, Parth H. Pathak, and Prasant Mohapatra\
-*IEEE/IFIP Networking 2014* (Acceptance ratio: 19.6%)\
+*IEEE/IFIP Networking 2014* (Acceptance ratio: 25.34%)\
 <span style="color:red">**Best Paper Award!**</span> 
 
 - **Your AP Knows How You Move: Fine-grained Device Motion Recognition through WiFi** [[PDF](/assets/pdfs/APsense_ACM_HotWireless_2014.pdf)]\
