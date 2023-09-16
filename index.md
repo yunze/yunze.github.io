@@ -10,15 +10,27 @@ toc_sticky: true
 
 ## About
 
-My name is Yunze Zeng. I am a Research Scientist at [Bosch Research](https://www.bosch.com/research/) in Sunnyvale, CA. I am currently focusing on building intelligent sensing systems with applied machine learning. Especially, I am bringing in innovative wireless sensing ideas to enable new business for Bosch in automotive and smart home/building applications.
+My name is Yunze Zeng. I am a Machine Learning Engineer at [Roblox](https://corp.roblox.com/) in San Mateo, CA. Before that, I was a Research Scientist at [Bosch Research](https://www.bosch.com/research/), where I built intelligent sensing systems with applied machine learning. Especially, I brought in innovative wireless sensing ideas to enable new business for Bosch in automotive and smart home/building applications.
 
 I received my Ph.D. in [Computer Science](https://cs.ucdavis.edu/) from [University of California Davis](https://www.ucdavis.edu/) where I was supervised by Prof. [Prasant Mohapatra](https://faculty.engineering.ucdavis.edu/mohapatra/). During the study at Davis, I was selected as [Business Development Fellow](https://gsm.ucdavis.edu/profile/yunze-zeng) from [Graduate School of Management](https://gsm.ucdavis.edu/), and I got [Honorable Mention](https://cs.ucdavis.edu/news) in Recognition of Outstanding Graduate Research from [Computer Science Department](https://cs.ucdavis.edu/).
 
 Before coming to Davis, I received my B.S. from [Beijing Jiaotong University](http://en.njtu.edu.cn/) in China where I was studying in Science Experimental Class (["思源班"](https://baike.baidu.com/item/%E6%80%9D%E6%BA%90%E7%8F%AD)). As an undergraduate, I was also a visiting student at [University of California San Diego](https://ucsd.edu/).
 
-## Research Interest
+## Current Research Interest
 
-Machine Learning, Deep Learning, Wireless Sensing, Mobile Computing
+Multimodal ML, Applied ML, Generative AI, Wireless Sensing
+
+## Awards
+
+- **Best Paper Runner-up Award** at IEEE SECON 2020
+- **Robert Bosch Innovation Award** (4 projects per year for the whole company), Robert Bosch LLC 2019
+- **Honorable Mention** in Recognition of Outstanding Graduate Research, UC Davis 2016
+- **Business Development Fellow** (9 fellows each year campus-wide), UC Davis 2015
+- **Best Paper Award** at IEEE/IFIP Networking 2014
+- **Best Paper Award** at ACM BodyNets 2013
+- Student travel grant awards for ACM MobiCom 2014 and ACM/IEEE IPSN 2016
+- Excellent Student Leader, Beijing Jiaotong University 2011
+- Outstanding Student, Beijing Jiaotong University 2010
 
 ## Pulications
 
@@ -107,15 +119,3 @@ Amit Pande, **<u>Yunze Zeng</u>**, Aweek K. Das, Prasant Mohapatra, Sheridan Miy
 - **Evaluating Perceptual Video Quality for Mobile Clients in 802.11n WLAN** [[PDF](/assets/pdfs/Video_ACM_WiNTECH_2013.pdf)]\
 Victor Omwando, Amit Pande, **<u>Yunze Zeng</u>**, and Prasant Mohapatra\
 *ACM WiNTECH @ Mobicom 2013*
-
-## Awards
-
-- **Best Paper Runner-up Award** at IEEE SECON 2020
-- **Robert Bosch Innovation Award** (4 projects per year for the whole company), Robert Bosch LLC 2019
-- **Honorable Mention** in Recognition of Outstanding Graduate Research, UC Davis 2016
-- **Business Development Fellow** (9 fellows each year campus-wide), UC Davis 2015
-- **Best Paper Award** at IEEE/IFIP Networking 2014
-- **Best Paper Award** at ACM BodyNets 2013
-- Student travel grant awards for ACM MobiCom 2014 and ACM/IEEE IPSN 2016
-- Excellent Student Leader, Beijing Jiaotong University 2011
-- Outstanding Student, Beijing Jiaotong University 2010
