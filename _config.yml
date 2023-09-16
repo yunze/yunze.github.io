@@ -20,7 +20,7 @@ title                    : "Yunze Zeng"
 title_separator          : 
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yunze Zeng"
-description              : "Yunze Zeng is a Research Scientist at Bosch Research in Sunnyvale, CA. He currently focuses on building Wireless Sensing and Networking Systems with Machine Learning. His research interest includes Wireless Sensing and Machine Learning."
+description              : "Yunze Zeng is a Machine Learning Engineer at Roblox. He currently focuses on buidling ML systems to enable Gen AI applications."
 url                      : "https://yunzezeng.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "yunzezeng"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -94,8 +94,8 @@ analytics:
 author:
   name             : "Yunze Zeng"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Research Scientist @ Bosch Research"
-  location         : "Sunnyvale, CA, USA"
+  bio              : "Machine Learning Engineer @ Roblox, Ph.D."
+  location         : "San Mateo, CA, USA"
   email            :
   links:
     - label: "LinkedIn"
