@@ -10,7 +10,7 @@ toc_sticky: true
 
 ## About
 
-My name is Yunze Zeng. I am a Machine Learning Engineer at [Roblox](https://corp.roblox.com/) in San Mateo, CA. Before that, I was a Research Scientist at [Bosch Research](https://www.bosch.com/research/), where I built intelligent sensing systems with applied machine learning. Especially, I brought in innovative wireless sensing ideas to enable new business for Bosch in automotive and smart home/building applications.
+My name is Yunze Zeng. I am a Machine Learning Engineer at [Roblox](https://corp.roblox.com/) in San Mateo, CA. Before that, I was a Research Scientist at [Bosch Research](https://www.bosch.com/research/), where I built intelligent sensing systems with applied machine learning. Especially, I brought in innovative wireless sensing ideas to enable new business for Bosch in automotive and smart home/building domains.
 
 I received my Ph.D. in [Computer Science](https://cs.ucdavis.edu/) from [University of California Davis](https://www.ucdavis.edu/) where I was supervised by Prof. [Prasant Mohapatra](https://faculty.engineering.ucdavis.edu/mohapatra/). During the study at Davis, I was selected as [Business Development Fellow](https://gsm.ucdavis.edu/profile/yunze-zeng) from [Graduate School of Management](https://gsm.ucdavis.edu/), and I got [Honorable Mention](https://cs.ucdavis.edu/news) in Recognition of Outstanding Graduate Research from [Computer Science Department](https://cs.ucdavis.edu/).
 
@@ -18,7 +18,7 @@ Before coming to Davis, I received my B.S. from [Beijing Jiaotong University](ht
 
 ## Current Research Interest
 
-Multimodal ML, Applied ML, Generative AI, Wireless Sensing
+Multimodal ML, Generative AI, Applied ML Systems, Wireless Sensing
 
 ## Awards
 
