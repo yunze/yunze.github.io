@@ -34,6 +34,12 @@ Multimodal ML, Generative AI, Applied ML Systems, Wireless Sensing
 
 ## Pulications
 
+- **UMusic: In-car Occupancy Sensing via High-resolution UWB Power Delay Profile** [[PDF](/assets/pdfs/UMusic_ACM_SenSys_2025.pdf)]\
+Shuai Wang, **<u>Yunze Zeng</u>**, Vivek Jain, and Parth H. Pathak\
+(Corresponding author)\
+*ACM SenSys 2025* (Acceptance ratio: 19.15%%)\
+<span style="color:red">**Best Paper Award Nominee!**</span>  — top 7 out of 45 accepted papers
+
 - **CarOSense: Car Occupancy Sensing with the Ultra-Wideband Keyless Infrastructure** [[PDF](/assets/pdfs/CarOSense_ACM_IWMUT_2020.pdf)] [[Video](https://www.youtube.com/watch?time_continue=8&v=rdTXv62inuM&feature=emb_logo)]\
 Yongsen Ma, **<u>Yunze Zeng</u>**, and Vivek Jain\
 (Co-first authors)\
