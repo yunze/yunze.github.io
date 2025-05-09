@@ -38,7 +38,7 @@ Multimodal ML, Generative AI, Applied ML Systems, Wireless Sensing
 - **UMusic: In-car Occupancy Sensing via High-resolution UWB Power Delay Profile** [[PDF](/assets/pdfs/UMusic_ACM_SenSys_2025.pdf)]\
 Shuai Wang, **<u>Yunze Zeng</u>**, Vivek Jain, and Parth H. Pathak\
 (Corresponding author)\
-*ACM SenSys 2025* (Acceptance ratio: 19.15%%)\
+*ACM SenSys 2025* (Acceptance ratio: 19.15%)\
 <span style="color:red">**Best Paper Award Nominee!**</span>  — top 7 out of 45 accepted papers
 
 - **CarOSense: Car Occupancy Sensing with the Ultra-Wideband Keyless Infrastructure** [[PDF](/assets/pdfs/CarOSense_ACM_IWMUT_2020.pdf)] [[Video](https://www.youtube.com/watch?time_continue=8&v=rdTXv62inuM&feature=emb_logo)]\
@@ -79,7 +79,7 @@ Zhicheng Yang, Parth H. Pathak, **<u>Yunze Zeng</u>**, Xixi Liran, and Prasant M
 - **WiWho: WiFi-based Person Identification in Smart Spaces** [[PDF](/assets/pdfs/WiWho_IPSN_2016.pdf)]\
 **<u>Yunze Zeng</u>**, Parth H. Pathak, and Prasant Mohapatra\
 *ACM/IEEE IPSN 2016* (Acceptance ratio: 19.6%)\
-<span style="color:red">**Most-cited work!(>400 citations)**</span> 
+<span style="color:red">**Most-cited work!(>500 citations)**</span> 
 
 - **Human Tracking and Activity Monitoring using 60GHz mmWave** [[PDF](/assets/pdfs/Tracking_IPSN_poster_2016.pdf)]\
 **<u>Yunze Zeng</u>**, Parth H. Pathak, Zhicheng Yang, and Prasant Mohapatra\
