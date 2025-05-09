@@ -22,8 +22,9 @@ Multimodal ML, Generative AI, Applied ML Systems, Wireless Sensing
 
 ## Awards
 
+- **Best Paper Award Nominee** at ACM SenSys 2025
 - **Best Paper Runner-up Award** at IEEE SECON 2020
-- **Robert Bosch Innovation Award** (4 projects per year for the whole company), Robert Bosch LLC 2019
+- **Robert Bosch Innovation Award** (one of 4 projects selected annually across the company worldwide), Robert Bosch LLC 2019
 - **Honorable Mention** in Recognition of Outstanding Graduate Research, UC Davis 2016
 - **Business Development Fellow** (9 fellows each year campus-wide), UC Davis 2015
 - **Best Paper Award** at IEEE/IFIP Networking 2014
