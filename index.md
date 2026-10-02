@@ -35,6 +35,11 @@ Multimodal ML, Generative AI, Applied ML Systems, Wireless Sensing
 
 ## Pulications
 
+- **BLARM: Animating 3D Objects from Video via Blending Latent Rigid Motion Primitives** [[PDF](/assets/pdfs/BLARM_NeurIPS_2026.pdf)]\
+Pradyumn Goyal, Yizhak Ben-Shabat, Hsueh-Ti Derek Liu, Haomiao Jiang, Snehasish Mukherjee, Kyle Spence, Mark Stauber, Evangelos Kalogerakis, **<u>Yunze Zeng</u>**\
+(Corresponding author)\
+*NeurIPS 2026* (Acceptance ratio: 25.7%)
+
 - **UMusic: In-car Occupancy Sensing via High-resolution UWB Power Delay Profile** [[PDF](/assets/pdfs/UMusic_ACM_SenSys_2025.pdf)]\
 Shuai Wang, **<u>Yunze Zeng</u>**, Vivek Jain, and Parth H. Pathak\
 (Corresponding author)\
